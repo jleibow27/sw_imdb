@@ -1,2 +1,2 @@
-# STAR_WARS_IMDB_ANALYSIS_I-VIII
-star wars episode I-VIII IMDb analysis
+# SW_IMDB_ANALYSIS
+Star Wars Episodes I-VIII IMDb analysis
